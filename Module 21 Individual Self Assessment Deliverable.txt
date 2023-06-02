@@ -1,0 +1,22 @@
+﻿Module 21 Individual Self Assessment Deliverable
+
+
+Self-Assessment
+
+
+During the project, I played an instrumental role in data collection, machine learning model creation, and feature engineering. I contributed to finding online data, notably the national transportation noise tif raster data for air traffic noise. I leveraged my ArcGIS skills to transform this into a CSV format usable for our database and future analysis. Additionally, I set up a Google Drive for the team to share and collectively work on data, ensuring an efficient and seamless collaboration process. My primary challenge was consolidating everyone's data and optimizing our machine learning models. Despite the obstacles, we managed to surmount them by choosing SQLite as our database format and switching to a more effective machine learning model.
+
+
+Beyond my primary roles, I participated actively in team discussions, decision-making, and presentations. I contributed to our milestone presentations, README file, and facilitated effective communication via Google Meet and Slack.
+
+
+Project and Team Summary
+
+
+Our team tackled the challenge of predicting Wake County house prices using machine learning models. Despite occasional scheduling conflicts and unexpected personal events, we maintained effective communication via Google Meet, Slack, and group text, and flexibly supported each other. For future projects, a clear initial understanding of the machine learning approach and data availability would enhance our effectiveness.
+
+
+Our diverse skills and collaborative spirit were our strengths. We divided tasks and learnt from each other. A key tip for future cohorts is active feedback seeking and openness to different perspectives.
+
+
+The project focused on housing prices in Wake County and their influencing factors, including external and home features. Initially employing a linear regression model, we moved to a more robust random forest classifier, achieving a promising accuracy score of around 91.73%. Despite potential overfitting and complexity issues, our final model proved valuable in predicting house price categories.
